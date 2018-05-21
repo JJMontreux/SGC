@@ -10,7 +10,7 @@
  * @license   https://creativecommons.org/licenses/by-nc-nd/3.0/ CC BY-NC-ND
  */
 
- // MODIFICACIÓN EN clase.php PARA PROBAR GIT
+ // MODIFICACIÓN EN clase.php PARA PROBAR GIT SUBIENDO V. 1.0.1
  
 /**
  * Clase Operable

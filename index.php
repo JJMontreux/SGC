@@ -23,7 +23,7 @@
          */
         include './clase.php';
 		
-		// MODIFICACIÓN EN index.php PARA PROBAR GIT
+		// MODIFICACIÓN EN index.php PARA PROBAR GIT SUBIENDO V. 1.0.1
 
         /**
          * Función que obtiene el valor de la propiedad palabra del objeto de la clase Operable creado
